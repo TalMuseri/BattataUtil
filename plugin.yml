@@ -1,0 +1,7 @@
+name: BattataUtil
+main: com.talmuseri.battatautil.Main
+version: 0.1
+commands:
+    neat:
+        usage: /<command>
+        descreption: Enables/disables neat mode.

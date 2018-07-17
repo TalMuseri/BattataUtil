@@ -1,0 +1,9 @@
+Welcome to the offical Github repository for the BattataUtil plugin!
+Spigot page: [COMING SOON]
+---------------------------------------------------------------------------------------
+There are 3 branches.
+Currently you are in the MASTER branch.
+Each branch has different files.
+You can switch branches using the button which is located in the main page of the repository, above all the files, left side.
+I'm sure you'll understand by yourself, it's very simple.
+Thanks for visiting this repository!

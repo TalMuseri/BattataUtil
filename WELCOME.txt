@@ -1,5 +1,5 @@
 Welcome to the offical Github repository for the BattataUtil plugin!
-Spigot page: [COMING SOON]
+Spigot page: https://www.spigotmc.org/resources/battatautil.58838/
 ---------------------------------------------------------------------------------------
 There are 3 branches.
 Currently you are in the MASTER branch.

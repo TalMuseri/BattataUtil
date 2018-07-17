@@ -17,7 +17,7 @@ Future features:
     * Added "/keepinv" command.
     * Fixed warning in the main class by removing the api and its imports.
     * Commands' description actually shows up in the help menu. (I miss-spelled the word description in plugin.yml)
-    * SpigotMC page is now live! :)
+    * SpigotMC page is now live! https://www.spigotmc.org/resources/battatautil.58838/
 0.2-alpha:
     * Fixed the "/neat" command so it actually works now.
 0.1-alpha:

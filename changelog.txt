@@ -5,13 +5,13 @@ Future features:
    * Added "/bc" command.
    * Added the home system.
    * Added the warp system.
+   * Added "/cmd", "/barrier" & "/structure" commands.
 
 0.4-alpha:
    * Added "/battatautil" command.
    * Added "/v" command.
    * Output messages in chat are now styled. (Using "/tellraw" command with the api instead of player.sendMessage)
    * Added short gamemode commands. (/gmc, /gms, etc.)
-   * Added "/cmd", "/barrier" & "/structure" commands.
 0.3-alpha:
     * The "/neat" command is now "/dev"
     * Added the new "/neat" command (AlwaysDay & NeverRain)

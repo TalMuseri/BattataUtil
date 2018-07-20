@@ -7,6 +7,7 @@ Future features:
    * Added the warp system.
 
 0.4-alpha:
+   * Added "/battatautil" command.
    * Added "/v" command.
    * Output messages in chat are now styled. (Using "/tellraw" command with the api instead of player.sendMessage)
    * Added short gamemode commands. (/gmc, /gms, etc.)

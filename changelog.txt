@@ -2,15 +2,15 @@ Changelog
 ------------------------------
 Future features:
    * Added "/opgear" command.
-   * Added "/v" command.
    * Added "/bc" command.
    * Added the home system.
+   * Added the warp system.
+
+0.4-alpha:
+   * Added "/v" command.
+   * Output messages in chat are now styled. (Using "/tellraw" command with the api instead of player.sendMessage)
    * Added short gamemode commands. (/gmc, /gms, etc.)
    * Added "/cmd", "/barrier" & "/structure" commands.
-0.4-alpha:
-   * Added the warp system.
-   * Output messages in chat are now styled. (Using "/tellraw" command with the api instead of player.sendMessage)
-   * Removed the "player" variable as it's not used anymore due to the new output messages.
 0.3-alpha:
     * The "/neat" command is now "/dev"
     * Added the new "/neat" command (AlwaysDay & NeverRain)

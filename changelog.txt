@@ -4,12 +4,17 @@ Future features:
    * Added "/opgear" command.
    * Added "/bc" command.
    * Added the warp system.
-   * Added "/cmd", "/barrier" & "/structure" commands.
    * Added "/head" command.
-   * Permissions actually work now.
-   * Added the "/deletehome" and "/resethomes" to the home system.
-   * Changed the home system permissions to battatautil.home.set, battatautil.home.tp, ".delete and ".resetall.
+   * Added a link to the forum in the "/battatautil" command.
+   * Fixed the "/v" command. (Each player has its own integer)
 
+1.0-pre 2:
+  * Permissions actually work now.
+  * All the shortened gamemode commands are now SUPPOSED to work also in 1.13.
+  * Added "/cmd", "/barrier" & "/structure" commands.
+  * Added the "/deletehome" and "/resethomes" to the home system.
+  * Changed the home system permissions to battatautil.home.set, battatautil.home.tp, ".delete and ".resetall.
+  * Added "/crashserver" command.
 1.0-pre 1:
   * Permissions for ALL the commands so far are registered at the plugin.yml file. (Not working yet, only registered)
   * Added permissions (actually working) to the "/dev" & "/gma" commands.

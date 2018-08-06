@@ -2,6 +2,7 @@ Changelog
 ------------------------------
 Future features:
    * Added "/opgear" command.
+   * Added "/nick" and "/unnick" commands.
    * Added "/bc" command.
    * Added the warp system.
    * Added "/head" command.
